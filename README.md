@@ -1,1 +1,3 @@
-# Yelp-User-Data-Based-Recommendation-System-
+# Yelp-User-Data-Based-Recommendation-System
+Personalization: Provide personalized restaurant recommendations tailored to each user's unique preferences, dietary restrictions, budget, and past behavior. The system aims to offer suggestions that align closely with the individual tastes and preferences of users, enhancing their overall dining experiences.
+Diversity: Ensure that the recommendations reflect a diverse range of restaurant options, including various cuisine types, price ranges, ambiance, and locations. By offering a diverse selection of recommendations, the system can cater to a wide range of tastes and preferences among users.
